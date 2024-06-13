@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ParaTorneosGames/static/css/main.d3cd71a2.css",
+    "main.js": "/ParaTorneosGames/static/js/main.a61a6990.js",
+    "static/js/453.f79fde56.chunk.js": "/ParaTorneosGames/static/js/453.f79fde56.chunk.js",
+    "static/media/torneo.jpg": "/ParaTorneosGames/static/media/torneo.320986eba436239694d3.jpg",
+    "index.html": "/ParaTorneosGames/index.html",
+    "main.d3cd71a2.css.map": "/ParaTorneosGames/static/css/main.d3cd71a2.css.map",
+    "main.a61a6990.js.map": "/ParaTorneosGames/static/js/main.a61a6990.js.map",
+    "453.f79fde56.chunk.js.map": "/ParaTorneosGames/static/js/453.f79fde56.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3cd71a2.css",
+    "static/js/main.a61a6990.js"
+  ]
+}
